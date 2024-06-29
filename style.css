@@ -1,0 +1,74 @@
+body{
+    background-image:linear-gradient(to right ,black,grey);
+    box-sizing: content-box;
+    }
+    
+    .intro{
+        font-size: 565%;
+    }
+    .Myintro{
+        display: flex;
+        justify-content: space-around;
+        color: white;
+    }
+    .details{
+        font-size:large;
+    }
+     
+    .nav{
+        display: flex;
+    justify-content: flex-end;
+    margin-right: 32%;
+    } 
+    .icon{
+        padding-left: 12px;
+        margin-top: 12px;
+    }
+    .horizontal{
+        color: white;
+    }
+    .welcome{
+        color: white;
+    }
+    .html{
+        /* background: linear-gradient(blue,white);
+        color: transparent;
+        background-clip: text; */
+        color: white;
+        margin-left: 42%;
+    
+    }
+    .Front{
+        margin-top: 12%;
+    }
+    .logo{
+        height: 154px;
+        width: 154px;
+        margin-left: 42%;
+    border-radius: 50%;
+    border: 12px solid white;
+    }
+    .projects{
+        margin-left: 12px;
+    }
+    .projectlogo{
+        width: 332px;
+        height: 342px;
+        margin-left: 32%;
+        border: 12px solid white;
+    }
+    .land{
+    color: white;
+    margin-left: 32%;
+    
+    }
+    .contactinfo{
+        color: white;
+        margin-left: 35%;
+        margin-right: 35%;
+    }
+    .moreinfo{
+        margin-left: 12%;
+        color: white;
+    }
+    
